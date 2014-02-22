@@ -1,0 +1,16 @@
+{
+  "name": "angular-currency-code",
+  "version": "0.0.1",
+  "author": "Carey Hinoki <carey.hinoki@gmail.com> (http://careyhinoki.me/)",
+  "devDependencies": {
+    "grunt":                 "~0.4.2",
+    "grunt-chalkboard":      "~0.2.2",
+    "grunt-contrib-clean":   "~0.5.0",
+    "grunt-contrib-coffee":  "~0.10.1",
+    "grunt-contrib-concat":  "~0.3.0",
+    "grunt-contrib-uglify":  "~0.3.2",
+    "grunt-contrib-watch":   "~0.5.3",
+    "load-grunt-tasks":      "~0.3.0",
+    "time-grunt":            "~0.2.9"
+  }
+}
