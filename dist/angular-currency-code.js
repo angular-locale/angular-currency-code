@@ -2,7 +2,7 @@
  * Angular-Currency-Code v0.0.1
  *
  * @author: Carey Hinoki <carey.hinoki@gmail.com> (http://careyhinoki.me/)
- * @date: 2014-02-22
+ * @date: 2014-02-25
  */
 
 
