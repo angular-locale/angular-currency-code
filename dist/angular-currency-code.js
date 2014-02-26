@@ -2,7 +2,7 @@
  * Angular-Currency-Code v0.0.1
  *
  * @author: Carey Hinoki <carey.hinoki@gmail.com> (http://careyhinoki.me/)
- * @date: 2014-02-25
+ * @date: 2014-02-26
  */
 
 
@@ -27,7 +27,11 @@ Simple module that contains a currency code map.
   @description
   Simple map that translates currency code to unicode currency symbol.
   
+  @example
+  ccCurrencySymbol['USD']
+  
   @see http://www.xe.com/symbols.php
+  @see http://en.wikipedia.org/wiki/Currency_Symbols_(Unicode_block)
    */
 
   cc.constant('ccCurrencySymbol', {

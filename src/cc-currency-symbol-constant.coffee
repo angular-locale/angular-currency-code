@@ -5,7 +5,11 @@
 @description
 Simple map that translates currency code to unicode currency symbol.
 
+@example
+ccCurrencySymbol['USD']
+
 @see http://www.xe.com/symbols.php
+@see http://en.wikipedia.org/wiki/Currency_Symbols_(Unicode_block)
 
 ###
 
