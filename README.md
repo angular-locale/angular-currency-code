@@ -34,7 +34,7 @@ myApp.controller('MyController', [
     ccCurrencySymbol
   ) {
     // provide access to the template
-    $scope.cc_currency_symbol = ccCurrencySymbol
+    $scope.cc_currency_symbol = ccCurrencySymbol;
 
     $scope.paper_clip = ccCurrencySymbol['ILS']
   }
@@ -61,7 +61,7 @@ myApp.factory('myFactory', [
   ) {
     return {
       getNewWorldCurrency: function () {
-        return ccCurrencySymbol['ZWD']
+        return ccCurrencySymbol['ZWD'];
       }
     }
   }
@@ -78,7 +78,7 @@ myApp.provider('myProvider', [
   function (
     ccCurrencySymbol
   ) {
-    default_currency_symbol = null
+    var default_currency_symbol = null;
 
     this.configureMyProvider = function (currency_code) {
       default_currency_symbol = currency_code;
@@ -86,7 +86,7 @@ myApp.provider('myProvider', [
 
     this.$get = function () {
       // ...
-    }
+    };
   }
 ]);
 
