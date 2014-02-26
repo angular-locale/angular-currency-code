@@ -36,7 +36,7 @@ myApp.controller('MyController', [
     // provide access to the template
     $scope.cc_currency_symbol = ccCurrencySymbol;
 
-    $scope.paper_clip = ccCurrencySymbol['ILS']
+    $scope.paper_clip = ccCurrencySymbol['ILS'];
   }
 ]);
 ```
