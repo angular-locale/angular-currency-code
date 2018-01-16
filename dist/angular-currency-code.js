@@ -2,7 +2,7 @@
  * Angular-Currency-Code v0.0.1
  *
  * @author: Carey Hinoki <carey.hinoki@gmail.com> (http://careyhinoki.me/)
- * @date: 2014-02-26
+ * @date: 2018-01-16
  */
 
 
@@ -71,7 +71,7 @@ Simple module that contains a currency code map.
     'EUR': '\u20ac',
     'FKP': '\u00a3',
     'FJD': '\u0024',
-    'GHC': '\u00a2',
+    'GHS': '\u00a2',
     'GIP': '\u00a3',
     'GTQ': '\u0051',
     'GGP': '\u00a3',

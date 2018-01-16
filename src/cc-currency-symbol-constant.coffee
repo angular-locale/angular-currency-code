@@ -123,7 +123,7 @@ cc.constant 'ccCurrencySymbol',
   'FJD': '\u0024'
 
   # 'Ghana Cedis'
-  'GHC': '\u00a2'
+  'GHS': '\u00a2'
 
   # 'Gibraltar Pound'
   'GIP': '\u00a3'
